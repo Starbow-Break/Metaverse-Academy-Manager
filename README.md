@@ -95,6 +95,11 @@
   <img src="https://github.com/user-attachments/assets/4ddcaec0-1ee3-4ee9-8fe1-3bd2c4395510" width="60%" height="60%"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3568db03-81a3-4ca8-8336-1350071123e7" width="60%" height="60%"/>
+</p>
+
+
 ## 기술 스택
 
 Unity, C#
